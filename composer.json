@@ -1,0 +1,9 @@
+{
+  "name": "kloos/oc-shopdebug-plugin",
+  "type": "october-plugin",
+  "description": "Shop debug plugin for Shopaholic for October CMS",
+  "license": "GPL-3.0-only",
+  "require": {
+    "php": ">=7.0"
+  }
+}
