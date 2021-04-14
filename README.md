@@ -1,5 +1,3 @@
-# oc-shopdebug-plugin
-**Kloos.ShopDebug**
+Easily config payment options only for logged in backend users.
 
-
-[Visit the wiki page](https://www.notion.so/kloosdev/Kloos-ShopDebug-82053989af8d40d6b62ebbdfd44fbd8c)
+More coming soon!
